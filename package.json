@@ -5,7 +5,7 @@
   "dependencies": {
     "@react-three/drei": "^3.11.2",
     "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^11.1.0",
+    "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.1.10",
     "@types/jest": "^26.0.24",
     "@types/node": "^12.0.0",
