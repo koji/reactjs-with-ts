@@ -15,7 +15,7 @@
     "lerpjs": "^1.1.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-intersection-observer": "^8.31.0",
+    "react-intersection-observer": "^8.32.0",
     "react-scripts": "4.0.3",
     "react-three-fiber": "^5.3.19",
     "three": "^0.131.0",
