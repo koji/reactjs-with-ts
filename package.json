@@ -20,7 +20,7 @@
     "react-three-fiber": "^5.3.22",
     "three": "^0.131.0",
     "typescript": "^4.3.5",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
