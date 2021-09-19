@@ -4,7 +4,7 @@ export const Header = () => {
     return(
         <header>
             <div className="header-inner">
-                <div className="logo">turtle with DALL-E</div>
+                <div className="logo">logo</div>
             </div>
         </header>
     )
